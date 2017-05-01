@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 //<bean id="helloController" class="com.niit.controllers.HelloController"></bean>
 public class HelloController {
 	//http://localhost:8010/mvcdemo/hello
-    @RequestMapping("/")
+    @RequestMapping("/hello")
 	public String helloPage(){
 		return "helloPage";
 		//WEB-INF/pages/helloPage.jsp

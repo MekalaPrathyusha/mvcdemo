@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="./helloUser" method="post">
+<form action="/helloUser" method="post">
 Enter Your Name : <input type="text" name="name"><br>
 <input type="submit" value="submit">
 
