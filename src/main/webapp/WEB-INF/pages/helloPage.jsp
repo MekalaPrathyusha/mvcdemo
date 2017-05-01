@@ -9,5 +9,6 @@
 <body>
 Welcome to Spring MVC!!!!
 This is Hello Page....
+   <a href="getUserForm" >sayHelloToUser</a>
 </body>
 </html>
