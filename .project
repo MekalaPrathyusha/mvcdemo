@@ -3,6 +3,7 @@
 	<name>mvcdemo</name>
 	<comment></comment>
 	<projects>
+		<project>Project1</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
